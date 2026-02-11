@@ -1,1 +1,1 @@
-# React based application 
+# It is React based application 
