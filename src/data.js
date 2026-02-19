@@ -76,7 +76,7 @@ export const products = [
     image: "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
     rating: {
       rate: 3.9,
-      count: 7,
+      count: 70,
     },
   },
   {
