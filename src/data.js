@@ -40,7 +40,7 @@ export const products = [
     },
   },
   {
-    id: 4,
+    id: 5,
     title: "Mens Casual Slim Fit",
     price: 15.99,
     description:
