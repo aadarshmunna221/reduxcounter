@@ -13,7 +13,7 @@ export const products = [
     },
   },
   {
-    id: 2,
+    id: 1,
     title: "Mens Casual Premium Slim Fit T-Shirts ",
     price: 22.3,
     description:
