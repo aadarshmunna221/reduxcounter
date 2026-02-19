@@ -8,7 +8,7 @@ export const products = [
     category: "men's clothing",
     image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
     rating: {
-      rate: 4.9,
+      rate: 3.9,
       count: 120,
     },
   },
